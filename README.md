@@ -1,4 +1,4 @@
-<b>Factory Method Design Pattern in C#</b>
+<h3>Factory Method Design Pattern in C#</h3>
 
 Factory method design pattern is one of the most used design pattern in .NET. In this article, I will explain about how to implement factory method design pattern in C#.
 
