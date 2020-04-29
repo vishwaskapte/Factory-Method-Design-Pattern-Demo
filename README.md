@@ -40,11 +40,11 @@ As the name Factory indicates that it will create something. This something is n
 
 <h3>Factory method design pattern in C# – Example implementation</h3>
 
-IFactory: Interface
+IEmployee: Interface
 
-PerrmanentEmployee and TemporaryEmployee: Concrete Product classes
+PerrmanentEmployee and ContractEmployee: Concrete Product classes
 
 EmployeeFactory: creator
 
-ConcreteEmployeeFactory: Concrete creator class
+Employee: Concrete creator class
 
